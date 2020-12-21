@@ -1,5 +1,5 @@
 from tkinter import *
-  
+print('Calculator App')
 # globally declare the expression variable 
 expression = ""
 
